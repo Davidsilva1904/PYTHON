@@ -1,0 +1,6 @@
+cd..
+cd emailreal\
+|y .\manage.py shell
+.\venv\Scripts\activate
+py .\manage.py shell
+py .\manage.py runserver

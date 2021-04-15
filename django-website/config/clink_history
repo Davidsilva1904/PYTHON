@@ -1,0 +1,258 @@
+|CTAG_1614771053_4112125_8352_0
+|ip install django
+|d..
+django-admin startprojet son-blog
+|jango-admin startprojet son_blog
+CD django-website\
+django-admin
+django-admin startprojet son_blog
+|jango-admin startproject son_blog
+django-admin startproject son_blog
+set path=%path%;c:\python27\scripts
+|ython -m venv venv
+|env\Scripts\activate
+django-admin startproject mysite
+|lear
+|d /
+|d Users\
+cd David
+|d Desktop
+mkdir blog
+|d blog\
+python -m venv venv
+.venv\Scripts\activate
+venv\Scripts\activate
+|ip install django
+django-admin startproject tutorialdjango
+cd tutorialdjango\
+|ode .
+|s
+|ython .\manage.py runserver
+python .\manage.py
+python .\manage.py sqlmigrate auth 0001
+python .\manage.py sqlmigrate sessions 0001
+python .\manage.py showmigrations
+python .\manage.py migrate
+|lear
+python .\manage.py startapp blog
+ls
+python .\manage.py makemigrations blog
+python .\manage.py sqlmigrate blog 0001
+python .\manage.py migrate blog
+python .\manage.py createsuperuser
+|ython .\manage.py runserver
+|lear
+pip install ipython
+clear
+python .\manage.py shell
+|ython .\manage.py runserver
+http://127.0.0.1:8000/
+|ython .\manage.py runserver
+|ython .\manage.py runserver
+|ython .\manage.py runserver
+|ython .\manage.py runserver
+pip install django-environ
+|ip install whitenoise
+|ip freeze
+|ip freeze > requirements.txt
+|ip freeze
+|it status
+|it status
+pip install gunicorn
+pip install whitenoise
+|ip freeze
+|ip install psycopg2
+pip freeze
+pip freeze > requirements.txt
+|it status
+|it init
+|it status
+heroku addons
+|ython .\manage.py runserver
+|d..
+cd blog\
+|d..
+cd CustomUserModel\
+|y -m venv venv
+|\venv\Scripts\activate
+|ip install django
+django-admin startproject tutorialcustomuser .
+|ode .
+|it init
+git status
+|it add .
+git commit -m "first commit"
+|y .\manage.py runserver
+.\manage.py startapp users
+|y .\manage.py makemigrations users
+py .\manage.py makemigrations users
+|y .\manage.py migrate
+|y .\manage.py createsuperuser
+|y .\manage.py runserver
+|y .\manage.py runserver
+|d ..
+|d site
+|y -m venv venv
+|\venv\Scripts\activate
+|ip install django
+|jango-admin startproject tutorialcadastro .
+|ode .
+|it init
+|it add .
+|it commit -m "first"
+|y .\manage.py runserver
+|ip install django-allauth
+|y .\manage.py migrate
+|y .\manage.py runserver
+|y .\manage.py startapp pages
+|y .\manage.py runserver
+|d..
+cd site\
+|y .\manage.py runserver
+|y .\manage.py startapp pages
+|y .\manage.py runserver
+|y -m venv venv
+|\venv\Scripts\activate
+|ip install django
+|jango-admin startproject tutorialcadastro .
+|d ..
+|d site
+|y -m venv venv
+|\venv\Scripts\activate
+|ip install django
+|ode .
+django-admin startproject tutorialcadastro .
+|ode .
+git init
+git add .
+git commit -m "first"
+|y .\manage.py runserver
+pip install django-allauth
+|y .\manage.py migrate
+py .\manage.py migrate
+|y .\manage.py runserver
+|y .\manage.py runserver
+py .\manage.py startapp pages
+|y .\manage.py runserver
+|ip install django-crispy-forms
+|y .\manage.py runserver
+|d..
+|d site
+|\venv\Scripts\activate
+py .\manage.py createsuperuser
+python .\manage.py runserver
+docket --version
+|ocker --version
+|d..
+|d site
+|ocker --version
+|d ..
+|kdir docker
+|d docker\
+|ocker --version
+docker-compose --versiob
+|ocker-compose --version
+|y -m venv venv
+|\venv\Scripts\activate
+|ip install django
+|jango-admin startproject auladocker .
+|y .\manage.py runserver
+|ode .
+|ocker-compose up
+|ip install psycopg2
+|ocker-compose up
+|ocker-compose up
+|ocker-compose up
+|ocker-compose up
+|ocker-compose up
+|d..
+cd docker
+|\venv\Scripts\activate
+|ocker-compose up
+django --version
+python -m django --version
+|ocker-compose up
+|ocker-compose up
+|ocker version
+C:\Program Files\Docker\Docker\DockerCli.exe" -SwitchDaemon
+cd /
+|C:\Program Files\Docker\Docker\DockerCli.exe" -SwitchDaemon
+cd Users\
+cd Desktop
+cd David\
+cd Desktop\
+|d docker\
+|ocker-compose up
+|ocker version
+|ocker run -d -p 80:80 docker/getting-started
+|C:\Program Files\Docker\Docker\DockerCli.exe" -SwitchDaemon
+|ocker-compose up
+|d..
+|d docker\
+|ocker run -d -p 80:80 docker/getting-started
+docker version
+"C:\Program Files\Docker\Docker\DockerCli.exe" -SwitchDaemon
+|ocker run -d -p 80:80 docker/getting-started
+|ocker-compose up
+sudo su $USER
+systemctl start docker
+pip install docker-compose
+pip install docker~
+pip install docker
+|ocker-compose up
+|ocker run -d -p 80:80 docker/getting-started
+docker run -d -p 8000:8000 docker/getting-started
+docker run -d -p 80:80 docker/getting-started
+docker run -d -p 8000 docker/getting-started
+|ocker-compose up
+|d..
+mkdir docker
+|d docker\
+|ocker --version
+docker-compose
+|ocker --version
+|d..
+cd docker\
+docker --version
+docker-compose --version
+|y -m venv venv
+|\venv\Scripts\activate
+|ip install django
+django-admin startproject auladocker .
+|y .\manage.py runserver
+|ode .
+pip install psycopg2
+|ocker-compose up
+|ocker-compose down
+docker-compose up --build
+docker-compose up -d
+docker-compose exec web python manage.py migrate
+docker-compose exec web python manage.py createsuperuser
+docker-compose down
+docker-compose up
+|d..
+cd site
+cd ..
+mkdir emailreal
+|d emailreal\
+|ip install django-anymail
+|d..
+|d emailreal\
+pip install django-anymail
+py -m venv venv
+|\venv\Scripts\activate
+pip install django
+django-admin startproject tutorialemail .
+django-admin runserver
+|y .\manage.py runserver
+.code
+. code
+code .
+|y .\manage.py shell
+pip install django-crispy-forms.
+pip install django-crispy-forms
+|y .\manage.py shell
+|y .\manage.py shell
+from django.core.mail import send_mail
+|y .\manage.py shell
+|y .\manage.py shell
